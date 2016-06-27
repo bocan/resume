@@ -1,5 +1,5 @@
 <h2>Profile</h2>
-<p class="lead">I&#039;m a Senior Deployment Architect, Charity Trustee, and University Student</p>
+<p class="lead">I&#039;m a Site Reliability Engineer, Charity Trustee, and University Student</p>
 <hr />
 
 <div class="row">
