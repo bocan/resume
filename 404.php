@@ -26,7 +26,7 @@
 		<div class="jumbotron" data-src="/view/images/kitten_animation.gif" data-position="center right">
 			<div class="container">
 				<h1>404 - Page not found</h1>
-				<p class="lead">We only found a sleeping kitten. ISN'T HE FUZZY?!?!<br /><a href="https://chris.funderburg.me">Return to the homepage</a></p>
+				<p class="lead">We only found a sleeping kitten.<br /><a href="https://chris.funderburg.me">Return to the homepage</a></p>
 			</div>
 			
 			<div class="overlay"></div>
